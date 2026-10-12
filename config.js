@@ -19,8 +19,8 @@ module.exports = {
     },
   },
   mcserver: {
-    ip: 'demo.mcstatus.io', // IP address of the MC server.
-    port: 25565, // Port number of the MC server. Use Query Port in Java for the full player list.
+    ip: 'PikaOriginsSMP.aternos.me', // IP address of the MC server.
+    port: 32945, // Port number of the MC server. Use Query Port in Java for the full player list.
     type: 'java', // Type of MC server: "java" or "bedrock".
     name: 'Demo Server', // Name of the MC server.
     version: 'Requires 1.8 - 1.20', // Version of the MC server.
